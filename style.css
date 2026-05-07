@@ -1,5 +1,6 @@
 body{
   background-color:#a2fcfc;
+  word-wrap:break-word;
 }
 a{
   color:black;
