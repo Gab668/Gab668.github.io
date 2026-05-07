@@ -6,4 +6,5 @@ a{
 }
 nav{
   position: fixed;
+  display: flex;
 }
