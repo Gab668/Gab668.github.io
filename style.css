@@ -11,5 +11,6 @@ nav{
 .nav-links{
   display: flex;
   gap: 3rem;
+  list-style: none;
 }
 
