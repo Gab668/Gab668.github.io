@@ -8,3 +8,6 @@ nav{
   position: fixed;
   display: flex;
 }
+ul{
+  display: flex;
+}
