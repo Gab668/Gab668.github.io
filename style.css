@@ -11,3 +11,6 @@ nav{
 .nav-links{
   display: flex;
 }
+li {
+  padding:1px;
+}
