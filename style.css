@@ -10,7 +10,6 @@ nav{
 }
 .nav-links{
   display: flex;
+  gap: 3rem;
 }
-li {
-  padding:1px;
-}
+
