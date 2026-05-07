@@ -5,7 +5,7 @@ a{
   color:black;
 }
 nav{
-  position: fixed;
+  position: relative;
   display: flex;
 }
 .nav-links{
